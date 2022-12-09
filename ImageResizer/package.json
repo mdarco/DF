@@ -13,7 +13,7 @@
     "body-parser": "^1.18.3",
     "buffer-image-size": "^0.6.4",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "gm": "^1.23.1",
     "jimp": "^0.6.0",
     "mssql": "^4.3.1",
